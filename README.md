@@ -31,9 +31,3 @@ x_min: 0.41, f(x_min): 0.29
 xmin: 0.41, f(x_min): 0.29
 The optimal value is:  -11  and is reached for x =  [3. 4.]
 ```
-
-### The Core Team
-
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
